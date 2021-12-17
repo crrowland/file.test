@@ -2,7 +2,7 @@
 layout: default
 
 ---
-## Transystemsllc Recources
+## Transystemsllc Resources
 
 
 
