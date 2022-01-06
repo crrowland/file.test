@@ -3,6 +3,9 @@
 
 
 
+[Download my book!](/source/files/book.pdf)
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
